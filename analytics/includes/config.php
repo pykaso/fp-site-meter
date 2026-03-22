@@ -28,3 +28,5 @@ const TRACK_RATE_LIMIT_WINDOW_SECONDS = 60;
 const TRACK_RATE_LIMIT_MAX_EVENTS = 120;
 
 const MAX_VISITOR_ID_LEN = 64;
+
+const DASH_SESSION_NAME = 'analytics_dash_sess';
