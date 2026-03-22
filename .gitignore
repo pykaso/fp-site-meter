@@ -1,0 +1,3 @@
+analytics/data/*.sqlite
+analytics/data/*.sqlite-*
+analytics/data/*.db
