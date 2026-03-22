@@ -1,3 +1,4 @@
 analytics/data/*.sqlite
 analytics/data/*.sqlite-*
 analytics/data/*.db
+analytics/data/install.lock
